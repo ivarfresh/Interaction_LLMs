@@ -1,6 +1,7 @@
 # LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models.
 
 Please make sure to:
+
 **1. set your working directory to: “coding/scripts/py”**
 
 **2. Enter your own OpenAI API key in following the data generation files:**
