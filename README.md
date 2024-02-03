@@ -51,8 +51,7 @@ Main files:
 - If this happens, just remove the last rows from the csv files (if something has been saved already) and run it again.
 
 ## 6. Data Processing: 
-
-- Combining the data files into one file: “BFI_Story_data.csv”.
+Combining the data files into one file: “BFI_Story_data.csv”. This is necessary in order to be able to run the statistical analyses
 
 ### 6.1 For the Experimental groups
 - Run: merge_subject_groups.py
@@ -71,6 +70,6 @@ Main files:
 
 - note: You must run this before you can perform the correlations
 
-#8. To run the statistical analyses, run the files in ”plot_stats”
+## 8. To run the statistical analyses, run the files in ”plot_stats”
 
 
