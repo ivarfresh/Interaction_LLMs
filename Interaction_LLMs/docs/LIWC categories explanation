@@ -1,0 +1,83 @@
+The LIWC categories are part of the Linguistic Inquiry and Word Count tool, which is a text analysis software that counts words in psychologically meaningful categories. Here's a brief explanation of each category:
+
+1. funct: Function words (e.g., "the", "and").
+2. pronoun: pronoun (e.g., "he", "they").
+3. ppron: Personal pronouns.
+4. i: First-person singular pronouns.
+5. we: First-person plural pronouns.
+6. you: Second-person pronouns.
+7. shehe: Third-person singular pronouns.
+8. they: Third-person plural pronouns.
+9. ipron: Impersonal pronouns.
+10. article: Definite and indefinite articles (e.g., "a", "an", "the").
+11. verb: All verbs.
+12. auxverb: Auxiliary verbs (e.g., "have", "be").
+13. past: Past tense verbs.
+14. present: Present tense verbs.
+15. future: Future tense verbs.
+16. adverb: Adverbs.
+17. preps: Prepositions.
+18. conj: Conjunctions.
+19. negate: Words indicating negation (e.g., "not", "never").
+20. quant: Quantifiers (e.g., "few", "many").
+21. number: Numerals.
+22. swear: Swear words.
+
+Related to psychological processes:
+
+121. social: Words related to social processes (e.g., "friend", "talk").
+122. family: Words related to family (e.g., "mother", "child").
+123. friend: Words related to friends (e.g., "buddy", "neighbor").
+124. humans: Words denoting human beings.
+125. affect: Words related to emotions.
+126. posemo: Positive emotion words.
+127. negemo: Negative emotion words.
+128. anx: Words related to anxiety.
+129. anger: Words related to anger.
+130. sad: Words related to sadness.
+131. cogmech: Words related to cognitive processes (e.g., "think", "because").
+132. insight: Words denoting insight (e.g., "understand", "know").
+133. cause: Words indicating causation (e.g., "because", "effect").
+134. discrep: Words expressing discrepancy (e.g., "should", "would").
+135. tentat: Words that are tentative (e.g., "maybe", "perhaps").
+136. certain: Words expressing certainty (e.g., "always", "never").
+137. inhib: Words related to inhibition (e.g., "block", "constrain").
+138. incl: Inclusive words (e.g., "with", "and").
+139. excl: Exclusive words (e.g., "but", "without").
+140. percept: Words related to perception (e.g., "observed", "heard").
+141. see: Words related to seeing.
+142. hear: Words related to hearing.
+143. feel: Words related to feeling.
+
+Categories related to biological processes:
+
+146. bio: Words related to biological processes.
+147. body: Words related to the body (e.g., "hand", "spit").
+148. health: Words related to health (e.g., "clinic", "flu").
+149. sexual: Words related to sexuality.
+150. ingest: Words related to ingestion (e.g., "eat", "drink").
+
+Categories related to relativity:
+
+250. relativ: Words related to relativity (e.g., "near", "above").
+251. motion: Words related to movement (e.g., "go", "arrive").
+252. space: Words related to space (e.g., "in", "out").
+253. time: Words related to time (e.g., "end", "until").
+
+Categories related to personal concerns:
+
+354. work: Words related to work (e.g., "job", "boss").
+355. achieve: Words related to achievement (e.g., "win", "success").
+356. leisure: Words related to leisure (e.g., "cook", "chat").
+357. home: Words related to home (e.g., "kitchen", "bed").
+358. money: Words related to money and financial issues.
+359. relig: Words related to religion (e.g., "altar", "pray").
+360. death: Words related to death and dying (e.g., "bury", "grave").
+
+Other linguistic categories:
+
+462. assent:
+
+ Words indicating assent (e.g., "agree", "OK").
+463. nonfl: Non-fluencies (e.g., "um", "uh").
+464. filler: Filler words (e.g., "you know", "I mean").
