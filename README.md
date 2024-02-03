@@ -47,6 +47,7 @@ Main files:
 
 
 **5.2 Errors: **
+
 - When runnning the files in 4. you might get a ”ValueError” or “IndexError”. We tried to prevent this by adding error handling, however this is not complete error proof because the GPT model temperature is set to 0.7 (this is needed for variable responses). 
 
 - If this happens, just remove the last rows from the csv files (if something has been saved already) and run it again.
