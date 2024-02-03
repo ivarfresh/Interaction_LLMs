@@ -15,7 +15,7 @@ Python version:
 - Python 3.11.4
 
 Required Libraries:
-
+```
 langchain                 0.0.268
 numpy                     1.25.2
 openai                    0.27.8 
@@ -30,6 +30,7 @@ sklearn				            1.3.2
 pillow                    9.4.0
 requests                  2.31.0
 regex                     2023.8.8
+```
 
 **4. Data**
 
