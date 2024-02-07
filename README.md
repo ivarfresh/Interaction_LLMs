@@ -3,7 +3,7 @@ This repository contains the code for the paper "LLM Agents in Interaction: Meas
 
 Please make sure to:
 
-## 1. set your working directory to: “coding/scripts/py”
+## 1. set your working directory to: “coding/py”
 
 ## 2. Enter your own OpenAI API key in following the data generation files:
 
