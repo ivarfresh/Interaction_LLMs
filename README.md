@@ -5,7 +5,7 @@ Please make sure to:
 
 ## 1. set your working directory to: “coding/py”
 
-## 2. Enter your own OpenAI API key in following the data generation files:
+## 2. Enter your OpenAI API key in following the data generation files:
 
 - “Control_groups.py”, “ANACREA_Experimental_groups.py”,“CREAANA_Experimental_groups.py”
 
