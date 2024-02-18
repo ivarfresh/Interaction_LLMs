@@ -7,7 +7,7 @@ Please make sure to:
 
 ## 2. Enter your OpenAI API key in following the data generation files:
 
-- “Control_groups.py”, “ANACREA_Experimental_groups.py”,“CREAANA_Experimental_groups.py”
+- “Control_groups.py”, “ANACREA_Experimental_groups.py”, “CREAANA_Experimental_groups.py”
 
 ## 3. Intall Python version and packages**
 
