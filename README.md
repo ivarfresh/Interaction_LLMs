@@ -48,7 +48,7 @@ Main files:
 
 - When runnning the files in 4. you might get a ”ValueError” or “IndexError”. We tried to prevent this by adding error handling, however this is not complete error proof because the GPT model temperature is set to 0.7 (this is needed for variable responses). 
 
-- If this happens, just remove the last rows from the csv files (if something has been saved already) and run it again.
+- If this happens, just remove the corresponding rows from the csv files (if something has been saved already) and run it again.
 
 ## 6. Data Processing: 
 Combining the data files into one file: “BFI_Story_data.csv”. This is necessary in order to be able to run the statistical analyses
