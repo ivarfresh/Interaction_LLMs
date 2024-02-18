@@ -14,6 +14,7 @@ Please make sure to:
 Required Libraries:
 ```
 Python                    3.11.4
+liwc                      0.5.0
 langchain                 0.0.268
 numpy                     1.25.2
 openai                    0.27.8 
