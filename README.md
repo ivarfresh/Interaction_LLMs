@@ -66,7 +66,8 @@ Combining the data files into one file: “BFI_Story_data.csv”. This is necess
 ### 6.3 Pre-processing for Point Biserial correlation:
 - Run: PB_encodings.py
 
-## 7. To perform the linguistic alignment test:
+## 7. LIWC
+- to run the LIWC test 
 - Run: LIWC.py
 
 - note: You must run this before you can perform the correlations
