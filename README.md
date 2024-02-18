@@ -24,7 +24,7 @@ pandas-stubs              1.5.3.230203
 mpmath                    1.3.0
 scipy                     1.11.1
 seaborn                   0.12.2
-sklearn				           1.3.2           
+scikit-learn				 1.3.2           
 pillow                    9.4.0
 requests                  2.31.0
 regex                     2023.8.8
