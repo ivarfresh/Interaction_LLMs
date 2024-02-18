@@ -71,6 +71,7 @@ Combining the data files into one file: “BFI_Story_data.csv”. This is necess
 
 - note: You must run this before you can perform the correlations
 
-## 8. To run the statistical analyses, run the files in ”plot_stats”
+## 8. Statistical analyses 
+- Run: all the files in ”plot_stats”
 
 
