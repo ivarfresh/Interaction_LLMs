@@ -1,6 +1,8 @@
 # Evaluating personality consistency and language use in Interactive LLMs
 
-This repository contains the code for the paper "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models." [![arXiv](https://img.shields.io/badge/arXiv:2402.02896-b31b1b.svg)](https://arxiv.org/abs/arXiv:2402.02896)
+This repository contains the code for the paper "LLM Agents in Interaction: Measuring Personality Consistency and Linguistic Alignment in Interacting Populations of Large Language Models." 
+
+[![arXiv](https://img.shields.io/badge/arXiv:2402.02896-b31b1b.svg)](https://arxiv.org/abs/arXiv:2402.02896)
 
 Please make sure to:
 
